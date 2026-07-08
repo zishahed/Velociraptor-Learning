@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "72d875a9cdf756ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c30293ff5d2e878",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60908fa0e95136b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Process Hollowing & its detection using Velociraptor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Process Hollowing & its detection using Velociraptor"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c6f63c6f52ab43c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab7760d97664768a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f109321c33206ff4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "164ea28ec15dda65",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "265b82599dd47aad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "73fc2662fae9afc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "145d5c51f28be23a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cabbc01569f8433a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Process Hollowing & its detection using Velociraptor.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Process Hollowing & its detection using Velociraptor"
+            }
+          },
+          {
+            "id": "ac9274061b58098a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Process Hollowing & its detection using Velociraptor.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Process Hollowing & its detection using Velociraptor"
+            }
+          },
+          {
+            "id": "830a2150dc0b6acc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c4cf1f45856f1927",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "64ec47ce39b786d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Process Hollowing & its detection using Velociraptor.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Process Hollowing & its detection using Velociraptor"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "60908fa0e95136b1",
+  "lastOpenFiles": [
+    "Velociraptor Artifact & Collecting Artifact.md",
+    "Process Hollowing & its detection using Velociraptor.md",
+    "Threat Hunting.md",
+    "Velociraptor Setup.md",
+    "Velociraptor Artifact.md"
+  ]
+}
