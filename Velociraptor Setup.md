@@ -259,4 +259,4 @@ According to the documentation the easiest way to set up velociraptor on client'
 
 With this we have a decent idea to install and setup velociraptor on different systems. and How to establish connection between sever and client.
 
-Next Article: [[Velociraptor Artifact]]
+Next Article: [[Velociraptor Artifact & Collecting Artifact]]

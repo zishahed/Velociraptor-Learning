@@ -89,3 +89,5 @@ Security analysts use a variety of artifact to inspect different aspects of clie
 | `Windows.EventLogs.Evtx`               | Collects raw event logs for detailed manual or automated analysis.                                |
 | `Windows.Memory.PEDump`                | Dumps in-memory PE files for analysis, useful for identifying injected components.                |
 reference: [Daniel Jeremiah](https://daniyyell.com/threat%20hunting/tools/malware%20analysis/Using-Velociraptor-to-Detect-and-Hunt-for-Affected-Systems-Unknown-Malware-Analysis/#11-what-is-threat-hunting-)
+
+Next Article: [[Process Hollowing & its detection using Velociraptor]]
